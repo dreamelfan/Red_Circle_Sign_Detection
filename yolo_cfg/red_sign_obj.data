@@ -1,5 +1,0 @@
-classes = 1
-train = /data/TT100K/train/train.txt
-valid = /data/TT100K/test/test.txt
-names = /home/jchahahahaha/gtech/Red_Circle_Sign_Detection/scripts/../yolo_cfg/red_sign_obj.names
-backup = /home/jchahahahaha/gtech/Red_Circle_Sign_Detection/scripts/../yolo_weights/
