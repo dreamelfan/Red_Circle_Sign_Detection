@@ -13,14 +13,15 @@ cd scripts
 ./prepare_data.sh <data_path>
 ```
 
-### Generate YOLO model configuration file
+### Train YOLO
+#### Generate YOLO model configuration file
 ```
 ./generate_yolo_cfg.sh <data_path>
 ```
 
-### Train YOLO
 #### Download darknet framework
 ```
+cd ..
 git clone https://github.com/AlexeyAB/darknet
 ```
 
