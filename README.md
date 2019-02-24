@@ -5,11 +5,11 @@ Machine learning model for red circle traffic sign detection
 ### 1. Download this repo
 ```
 git clone https://github.com/dreamelfan/Red_Circle_Sign_Detection
-cd Red_Circle_Sign_Detection
 ```
 
 ### 2. Download TT100K dataset
 ```
+cd Red_Circle_Sign_Detection
 cd scripts
 ./download_TT100K.sh <TT100K_download_path>
 ```
